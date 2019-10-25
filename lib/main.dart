@@ -4,7 +4,7 @@ import 'package:agenda_contatos/ui/create_contact_page.dart';
 
 void main() {
   runApp(MaterialApp(
-    home: ContactPage(),
+    home: HomePage(),
     debugShowCheckedModeBanner: false,
   ));
 }
